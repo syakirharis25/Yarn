@@ -31,6 +31,7 @@ yarn add by classic.yarnpkg.com :  https://classic.yarnpkg.com/en/docs/cli/add <
 yarn outdated by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/outdated <br />
 yarn init by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/init <br />
 yarn global by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/global <br />
+yarn list by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/list <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
