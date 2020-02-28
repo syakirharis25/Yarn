@@ -37,6 +37,7 @@ yarn import by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/imp
 yarn run by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/run <br />
 yarn licenses by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/licenses <br />
 yarn pack by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/package-json <br />
+yarn cache by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/cache <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
