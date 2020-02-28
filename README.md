@@ -9,7 +9,7 @@ My works related to Yarn JavaScript Package Manager.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="mongodb.jpg" height="200"> 
+<img src="yarn.jpg" height="150"> 
 Yarn is a JavaScript Package Manager, a direct competitor of npm, and it’s one of the Facebook Open Source projects. It is compatible with npm packages, so it has the great advantage of being a drop-in replacement for npm.
 <br /><br />
 Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably.
