@@ -26,8 +26,8 @@ Yarn by Facebook Engineering : https://engineering.fb.com/web/yarn-a-new-package
 ## 3. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
-$ git clone https://github.com/syakirharis25/MongoDB.git
-$ cd MongoDB/
+$ git clone https://github.com/syakirharis25/Yarn.git
+$ cd Yarn/
 $ git remote -v
 $ git status
 ```
