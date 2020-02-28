@@ -20,6 +20,8 @@ These dependencies are versioned and installed based on semantic versioning (sem
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
+Yarn official website : https://yarnpkg.com <br />
+Yarn installation page : https://classic.yarnpkg.com/en/docs/install <br />
 Yarn by Facebook Engineering : https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/ <br />
 
 <a name="github"></a>
