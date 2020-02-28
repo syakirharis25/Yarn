@@ -22,7 +22,14 @@ These dependencies are versioned and installed based on semantic versioning (sem
 ## 2. Official references websites. <br />
 Yarn official website : https://yarnpkg.com <br />
 Yarn installation page : https://classic.yarnpkg.com/en/docs/install <br />
+Yarn official documentation : https://classic.yarnpkg.com/en/docs <br />
 Yarn by Facebook Engineering : https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/ <br />
+
+**_Yarn documentation by classic.yarnpkg.com_** <br />
+yarn upgrade by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/upgrade/ <br />
+yarn add by classic.yarnpkg.com :  https://classic.yarnpkg.com/en/docs/cli/add <br />
+yarn outdated by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/outdated <br />
+yarn init by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/init <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
