@@ -35,6 +35,7 @@ yarn list by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/list 
 yarn check by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/check <br />
 yarn import by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/import <br />
 yarn run by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/run <br />
+yarn licenses by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/licenses <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
