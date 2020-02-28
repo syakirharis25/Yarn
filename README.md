@@ -33,6 +33,7 @@ yarn init by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/init 
 yarn global by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/global <br />
 yarn list by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/list <br />
 yarn check by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/check <br />
+yarn import by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/import <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
