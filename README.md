@@ -9,7 +9,7 @@ My works related to Yarn JavaScript Package Manager.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="mongodb.jpg" height="200"> 
+<img src="yarn.jpg" height="150"> 
 Yarn is a JavaScript Package Manager, a direct competitor of npm, and it’s one of the Facebook Open Source projects. It is compatible with npm packages, so it has the great advantage of being a drop-in replacement for npm.
 <br /><br />
 Yarn is a new package manager that replaces the existing workflow for the npm client or other package managers while remaining compatible with the npm registry. It has the same feature set as existing workflows while operating faster, more securely, and more reliably.
@@ -20,7 +20,24 @@ These dependencies are versioned and installed based on semantic versioning (sem
 
 <a name="references"></a>
 ## 2. Official references websites. <br />
+Yarn official website : https://yarnpkg.com <br />
+Yarn installation page : https://classic.yarnpkg.com/en/docs/install <br />
+Yarn official documentation : https://classic.yarnpkg.com/en/docs <br />
 Yarn by Facebook Engineering : https://engineering.fb.com/web/yarn-a-new-package-manager-for-javascript/ <br />
+
+**_Yarn documentation by classic.yarnpkg.com_** <br />
+yarn upgrade by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/upgrade/ <br />
+yarn add by classic.yarnpkg.com :  https://classic.yarnpkg.com/en/docs/cli/add <br />
+yarn outdated by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/outdated <br />
+yarn init by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/init <br />
+yarn global by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/global <br />
+yarn list by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/list <br />
+yarn check by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/check <br />
+yarn import by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/import <br />
+yarn run by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/run <br />
+yarn licenses by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/licenses <br />
+yarn pack by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/package-json <br />
+yarn cache by classic.yarnpkg.com : https://classic.yarnpkg.com/en/docs/cli/cache <br />
 
 <a name="github"></a>
 ## 3. GitHub notes.
